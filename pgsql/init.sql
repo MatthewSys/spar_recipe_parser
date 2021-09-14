@@ -1,0 +1,8 @@
+CREATE TABLE spar (
+bag_id serial PRIMARY KEY,
+name VARCHAR ( 50 ) NOT NULL,
+qua REAL NOT NULL,
+cost REAL NOT NULL,
+sum REAL NOT NULL,
+time VARCHAR (50) NOT NULL);
+

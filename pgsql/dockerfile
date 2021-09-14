@@ -1,0 +1,4 @@
+FROM postgres:12.8
+ENV POSTGRES_PASSWORD qwerty
+ENV POSTGRES_DB spar
+COPY init.sql /docker-entrypoint-initdb.d/

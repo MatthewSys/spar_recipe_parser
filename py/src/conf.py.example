@@ -1,0 +1,13 @@
+server = 'export.imap.mail.yahoo.com'
+username = 'email@yahoo.com'
+password = 'somepassword'
+inbound = 'noreply@taxcom.ru'
+detect = 'ООО "ШОПТРЕЙД"'
+defect = 'БЕЗНАЛИЧНЫМИ:'
+dbuser = 'postgres'
+dbpass = 'qwerty'
+dbname = 'spar'
+dbhost = 'db'
+dbport = '5432'
+lst=[]
+summ=[]
